@@ -10,5 +10,10 @@ public class HelloTest {
         map.containsKey("as");
         Double ad = map.get("ad");
         System.out.println(ad);
+
+
+        dasdasd
+
+        System.out.println(111);
     }
 }
